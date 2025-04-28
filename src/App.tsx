@@ -19,11 +19,11 @@ type Task = {
 
 // Logos for the rewards
 const BitraLogo: React.FC = () => (
-  <img src="./public/bitralogo.jpg" alt="Bitra Logo" className="w-10 h-10" />
+  <img src="https://pbs.twimg.com/profile_images/1910236916844310528/LsNjy7IY_400x400.jpg" alt="Bitra Logo" className="w-10 h-10" />
 );
 
 const TaraLogo: React.FC = () => (
-  <img src="./public/taralogo.png" alt="Tara Logo" className="w-10 h-10" />
+  <img src="https://pbs.twimg.com/profile_images/1828458877374918656/14WyqvCi_400x400.png" alt="Tara Logo" className="w-10 h-10" />
 );
 
 // Mining animation
